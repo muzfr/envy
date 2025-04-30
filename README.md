@@ -33,7 +33,7 @@ bash
 Copy
 Edit
 pip install -r requirements.txt
-Add your main token to main.py and tokens in data/tokens.txt
+Add your main token to envy.py and tokens in tokens.txt (main token in envy.py)
 3.
 run it
 
