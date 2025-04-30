@@ -26,3 +26,18 @@ THIS TOOL IS RELEASED TO THE PUBLIC AND DOES NOT ALLOW UNATHORIZED SELLING OF TH
    ```bash
    git clone https://github.com/yourname/envy-selfbot
    cd envy-selfbot
+
+   Install dependencies
+2.
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Add your main token to main.py and tokens in data/tokens.txt
+3.
+run it
+
+bash
+Copy
+Edit
+python envy.py
