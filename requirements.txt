@@ -1,0 +1,5 @@
+discord.py==1.7.3
+aiohttp
+requests
+psutil
+colorama
