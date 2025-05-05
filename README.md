@@ -24,7 +24,7 @@ THIS TOOL IS RELEASED TO THE PUBLIC AND DOES NOT ALLOW UNATHORIZED SELLING OF TH
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourname/envy-selfbot
+   git clone https://github.com/muzfr/envy
    cd envy-selfbot
 
    Install dependencies
