@@ -1,6 +1,6 @@
 # ENVY
 
-A powerful multipurpose Discord selfbot made by **@85pw** & **muz**  
+A powerful multipurpose Discord selfbot made by **@85pw**  **muz**  
 Packed with chat commands, troll tools, mini-games, webhook nuking, account utilities, AI generation, and multi-token spam functions.
 I am not responsible for account terminations or limitations
 THIS TOOL IS RELEASED TO THE PUBLIC AND DOES NOT ALLOW UNATHORIZED SELLING OF THE PRODUCT OR DISTRIBUTATION OUTSIDE OF THIS GITHUB RESPO
