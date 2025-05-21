@@ -11,7 +11,7 @@ from colorama import Fore, Style, init
 init(autoreset=True)
 
 # Creator: @imneverenough
-# Contact info: Discord  @imneverenough | youtube @reapproved | github @muzfr
+# Contact info: Discord  @decmber31 | youtube @reapproved | github @muzfr
 
 
 # CONFIG
@@ -2070,20 +2070,20 @@ async def menu(ctx):
 [2;33m Page 3 — Friends / DM 
 [2;34m Page 4 — Group Chat Tools
 [2;39mPage 5 — Utility Commands
-    CREATED BY: @imneverenough
+    CREATED BY: @decmber31
 
 [2;35m Page 6 — Troll Tools
 [2;33m Page 7 — Webhook Tools
 [2;36m Page 8 — Account Edits
 [2;92m Page 9 — Mini Games
 [2;91m Page 10 — Exploits
-    CREATED BY: @imneverenough
+    CREATED BY: @decmber31
 [2;91m Page 11 — Raid Tools
 [2;35m Page 12 — Text Mods
 [2;95m Page 13 — Anim Spam
 [2;96m Page 14 — AI / Gen
 [2;37m Page 15 — Misc Tools
-    CREATED BY: @imneverenough
+    CREATED BY: @decmber31
 [2;36mType ?page<number> to open a section.
 [2;37mExample: ?page6
 ```""")
