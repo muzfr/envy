@@ -1608,7 +1608,7 @@ async def killselfbot(ctx):
 async def grabberlink(ctx):
     await ctx.send("📡 Fake grabber link: https://tinyurl.com/grab-my-ip-lol (not real)")
 
-# ========== PAGE 11: DISCORD RAID OPS ⚔️ ==========
+# ========== PAGE 11: discord raids ==========
 
 @bot.command()
 async def nuke(ctx):
