@@ -10,7 +10,7 @@ import psutil
 from colorama import Fore, Style, init
 init(autoreset=True)
 
-# Creator: @decmber31
+# Creator: @funnyokay
 # Contact info: Discord  @funnyokay | youtube @reapproved | github @muzfr
 
 
